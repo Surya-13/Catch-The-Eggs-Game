@@ -1,0 +1,46 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 11.03.2019 10:42:26
+
+newmtl st_wood
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9922 0.9804 0.8941
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\for houses\Wo_16sml.jpg
+	map_Kd D:\New folder 2\for houses\Wo_16sml.jpg
+
+newmtl wood
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9922 0.9804 0.8941
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Wd_sml_b.jpg
+	map_Kd D:\New folder 2\Wd_sml_b.jpg
+
+newmtl fabric
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8941 0.7843 0.8784
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\textile\Tred_sml.jpg
+	map_Kd D:\New folder 2\textile\Tred_sml.jpg
+	map_bump -bm 0.3000 D:\New folder 2\textile\Tred_sml.jpg
+	bump -bm 0.3000 D:\New folder 2\textile\Tred_sml.jpg
